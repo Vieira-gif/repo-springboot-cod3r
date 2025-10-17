@@ -1,6 +1,5 @@
 package br.com.exerciciossb.controllers;
 
-import jakarta.annotation.security.PermitAll;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

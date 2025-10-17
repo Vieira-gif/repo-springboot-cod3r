@@ -1,7 +1,6 @@
 package br.com.exerciciossb.controllers;
 
 import br.com.exerciciossb.models.Cliente;
-import org.springframework.boot.context.properties.bind.DefaultValue;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
