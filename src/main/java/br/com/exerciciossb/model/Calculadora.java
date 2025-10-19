@@ -1,4 +1,4 @@
-package br.com.exerciciossb.models;
+package br.com.exerciciossb.model;
 
 public class Calculadora {
 

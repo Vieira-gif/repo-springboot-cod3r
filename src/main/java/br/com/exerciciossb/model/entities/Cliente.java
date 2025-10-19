@@ -1,4 +1,4 @@
-package br.com.exerciciossb.models;
+package br.com.exerciciossb.model.entities;
 
 public class Cliente {
     private String nome;
